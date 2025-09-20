@@ -1,7 +1,0 @@
-git init
-git add .
-git commit -m &quot;Initial portfolio upload&quot;
-git branch -M main
-
-git remote add origin https://github.com/&lt;username&gt;/&lt;repo&gt;.git
-git push -u origin main
