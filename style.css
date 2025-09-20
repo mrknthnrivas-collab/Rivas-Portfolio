@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FDFDFA;
+    line-height: 1.7;
+}
+
+h1, h2 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #006B70; 
+}
+
+header {
+    background-color: #E8795A; 
+    padding: 3em 5%; 
+}
+
+nav ul li a {
+    color: #FDFDFA;
+    padding: 8px 15px;
+    border: 2px solid #FDFDFA; 
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #006B70; 
+    border-color: #006B70;
+}
+
+main section {
+    max-width: 1000px;
+    margin: 60px auto;
+    padding: 40px;
+    border: 5px solid #E8795A; 
+}
